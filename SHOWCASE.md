@@ -10,7 +10,11 @@ This page is the public evidence layer for products whose main repositories rema
 **Status:** Active private development  
 **Primary stack:** Laravel · PHP · Blade · relational data · PHPUnit
 
-![Arkanara SystemOS verified runtime showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/arkanara-systemos-showcase.jpg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/arkanara-systemos-showcase.jpg">
+    <img src="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/arkanara-systemos-showcase.jpg" alt="Arkanara SystemOS verified runtime showcase" width="100%" />
+  </a>
+</p>
 
 The runtime evidence covers both sides of one travel-business system: customer journey and booking, plus internal operational control across booking lifecycle, fleet, finance/accounting, organization/access, and production readiness.
 
@@ -26,7 +30,11 @@ Customer-identifying fields are excluded or sanitized before public use.
 **Status:** Private Alpha  
 **Stack:** Flutter · Dart
 
-![Yaveli verified runtime showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/yaveli-showcase.jpg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/yaveli-showcase.jpg">
+    <img src="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/yaveli-showcase.jpg" alt="Yaveli verified runtime showcase" width="100%" />
+  </a>
+</p>
 
 The current running build demonstrates template discovery and filtering, live invitation editing, persistent local drafts and customization, preview, publish-flow foundations, and guest/RSVP foundations.
 
@@ -40,7 +48,11 @@ The commercial source remains private. Planned cloud authentication, production 
 **Status:** Active development  
 **Stack:** Flutter · Dart · Android-first
 
-![KANSSA Turtle Rescue verified runtime showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/kanssa-showcase.jpg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/kanssa-showcase.jpg">
+    <img src="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/kanssa-showcase.jpg" alt="KANSSA Turtle Rescue verified runtime showcase" width="100%" />
+  </a>
+</p>
 
 The Turtle Rescue runtime demonstrates the intended child-experience loop:
 
@@ -56,7 +68,11 @@ Current evidence includes picture choice, correct/incorrect character reaction, 
 **Status:** Core development / running local runtime  
 **Stack:** Python · Pytest · local AI runtime
 
-![1NFST Core verified local-runtime showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/1nfst-core-showcase.jpg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/1nfst-core-showcase.jpg">
+    <img src="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/1nfst-core-showcase.jpg" alt="1NFST Core verified local-runtime showcase" width="100%" />
+  </a>
+</p>
 
 The current interface provides visible evidence of local runtime status, local-model state, private-by-default posture, active chat execution, and technical reasoning inside the local workspace.
 
@@ -70,7 +86,11 @@ The screenshot is runtime evidence, not a claim that every planned native-UI, sy
 **Status:** Concept / active development  
 **Stack:** Next.js · React · TypeScript · Laravel · PostgreSQL/PostGIS · Redis · MapLibre
 
-![1NFST World running concept showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/1nfst-world-showcase.jpg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/1nfst-world-showcase.jpg">
+    <img src="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/1nfst-world-showcase.jpg" alt="1NFST World running concept showcase" width="100%" />
+  </a>
+</p>
 
 **World 001: Lombok** currently demonstrates spatial world entry, map-based discovery, district/property anchors, a commerce-property hierarchy, and a structured discovery fallback that remains usable without the immersive layer.
 
