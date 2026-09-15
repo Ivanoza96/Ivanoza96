@@ -14,14 +14,7 @@ This page separates **verified runtime captures** from products that are still w
 
 ![Yaveli verified runtime showcase](./assets/showcase/yaveli-runtime-showcase.webp)
 
-The visual above is composed only from real running-build captures. It shows the current product surface across:
-
-- template discovery and filtering,
-- live editing with visual preview,
-- explicit publish flow,
-- guest / RSVP foundations,
-- feature positioning,
-- pricing direction.
+The visual above is composed only from real running-build captures. It shows the current product surface across template discovery and filtering, live editing with visual preview, explicit publish flow, guest / RSVP foundations, feature positioning, and pricing direction.
 
 The commercial source remains private. The showcase does not claim that planned cloud, authentication, payment, or growth features are already complete.
 
