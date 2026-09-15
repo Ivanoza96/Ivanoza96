@@ -81,6 +81,38 @@ AI capability is treated as something that requires permission boundaries, deter
 
 ---
 
+## 1NFST World — Spatial Marketplace
+
+**Status:** Concept / Active Development  
+**Role:** Independent product developer  
+**Primary stack:** Next.js, React, TypeScript, Laravel, PostgreSQL/PostGIS, Redis, MapLibre, Netlify
+
+### Product scope
+
+A spatial digital-commerce concept built around the idea that discovery, commerce, hospitality, mobility, media, property, experiences, and fulfillment can live inside a navigable digital world rather than only a conventional marketplace grid. **Lombok is the first world environment (World 001)**, while the product direction is intentionally broader than tourism.
+
+The project keeps immersive and conventional interaction layers separate: spatial/world-oriented discovery is the product identity, while search, lists, booking, payment, and transaction flows remain understandable and usable without requiring WebGL.
+
+### Work demonstrated
+
+- world, district, biome, place, property, building, space, zone, and slot hierarchy;
+- grounded Lombok geographic discovery with MapLibre;
+- district and property transitions tied to a shared world graph;
+- conventional structured discovery as a non-WebGL fallback;
+- commerce and reservable-offer foundations;
+- booking lifecycle and provider-agnostic payment-intent architecture with mock payment only;
+- partner/business control foundations;
+- city-media inventory concepts;
+- fulfillment/local-delivery and mobility/rental foundations;
+- runtime work for streetscapes, building/storefront exteriors, and interior commerce;
+- explicit separation between conceptual/demo world content and production/live claims.
+
+### Current positioning
+
+This project is intentionally presented as **concept / active development**, not as a finished production marketplace. The portfolio value is in the product architecture, spatial interaction direction, geographic grounding, commerce-domain modeling, and disciplined separation between demo state and live operational truth.
+
+---
+
 ## Yaveli
 
 **Role:** Independent product developer  
