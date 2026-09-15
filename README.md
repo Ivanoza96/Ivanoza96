@@ -29,6 +29,12 @@ A child-centered learning product built around exploration, action, world reacti
 
 A modular AI systems project focused on model routing, permissions, tools, memory, tasks, retrieval, computer-use foundations, plugins, and resource-aware execution. The project is developed with explicit capability boundaries and broad automated verification.
 
+## Verified visual showcase
+
+Real deployment captures and the public screenshot queue are maintained in **[SHOWCASE.md](./SHOWCASE.md)**.
+
+The showcase only uses verified captures from running builds. Private source code, credentials, customer data, and fabricated UI are intentionally excluded.
+
 ## Other work
 
 ### Barujari / Arkanara
