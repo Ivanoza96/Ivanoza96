@@ -22,6 +22,10 @@ A cross-platform product for creating, previewing, publishing, and sharing digit
 
 A child-centered learning product built around exploration, action, world reaction, and story-driven learning rather than dashboard-style lessons. Current work includes interactive learning scenes, character reactions, offline-friendly progress, and activity mechanics such as picture choice, drag-and-drop, and matching.
 
+[![KANSSA — Turtle Rescue verified runtime showcase](./assets/showcase/kanssa-turtle-rescue-showcase.webp)](./SHOWCASE.md#kanssa--turtle-rescue)
+
+**[View the verified KANSSA runtime showcase →](./SHOWCASE.md#kanssa--turtle-rescue)**
+
 ### 1NFST
 **Local-first personal intelligence core**  
 `Python` · `Pytest` · `AI Systems`  
