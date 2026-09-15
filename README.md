@@ -36,6 +36,11 @@ Private local-first AI systems research and engineering project with modular per
 
 **Stack:** Python · Pytest · AI systems · permissions · memory · retrieval · tools
 
+### 1NFST World — Spatial Marketplace
+**Concept / Active Development.** A spatial digital-commerce world where discovery, geography, districts, properties, storefronts, mobility, hospitality, media, and transactions are explored through a world-oriented interface rather than only a conventional marketplace grid. The first world environment is Lombok (World 001), with conventional search/discovery retained as an accessible fallback.
+
+**Stack:** Next.js · React · TypeScript · Laravel · PostgreSQL/PostGIS · Redis · MapLibre · Netlify
+
 ### Yaveli
 Cross-platform invitation and event-experience product with editor, persistent drafts, preview, publish lifecycle, and guest-facing foundations.
 
