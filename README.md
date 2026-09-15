@@ -53,7 +53,13 @@ A two-sided travel platform combining the public Barujari × Q Tours customer jo
 **Verified runtime evidence:** [View Barujari / Arkanara showcase →](./SHOWCASE.md#barujari--arkanara)
 
 ### 1NFST World
-A spatial digital marketplace concept where discovery, commerce, hospitality, mobility, media, and digital property can coexist inside a world-based experience rather than a conventional listing grid.
+**Spatial marketplace concept**  
+`Next.js` · `React` · `TypeScript` · `Laravel` · `PostgreSQL/PostGIS` · `MapLibre`  
+**Status:** Concept / Active Development
+
+A spatial digital marketplace where discovery, commerce, hospitality, mobility, media, and digital property can coexist inside a world-based experience rather than a conventional listing grid. Current verified screens cover World 001 entry, geographic discovery, property/commerce structure, and structured non-immersive discovery.
+
+**Verified runtime evidence:** [View 1NFST World showcase →](./SHOWCASE.md#1nfst-world)
 
 ### UTUH
 Digital trust infrastructure research focused on identity, consent, authority, verification, risk signals, credentials, auditability, and human-controlled delegation to AI systems.
