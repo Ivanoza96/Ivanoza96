@@ -6,6 +6,20 @@ This page separates **verified runtime captures** from products that are still w
 
 ## Verified runtime work
 
+### 1NFST Core
+
+**Type:** Local-first personal intelligence core  
+**Status:** Core Development / Running Local Runtime  
+**Stack:** Python · Pytest · Local AI runtime
+
+![1NFST Core verified local-runtime showcase](./assets/showcase/1nfst-core-runtime-showcase.webp)
+
+The visual above is composed only from real running-build captures supplied from the current 1NFST interface. It demonstrates the local-first workspace, local model status, private-by-default posture, active chat execution, and technical reasoning inside the current UI.
+
+The screenshots are presented as runtime evidence only. They do not imply that every planned native-UI, synchronization, team, or hosted capability is complete.
+
+---
+
 ### Yaveli
 
 **Type:** Cross-platform invitation & event-experience product  
@@ -83,15 +97,6 @@ A production Netlify deployment exists, but the current deploy does not expose a
 5. Access / RBAC workspace
 6. Booking/transport operations view
 7. Finance/payment lifecycle view, using fictional or sanitized data only
-
-### 1NFST Core — preferred evidence
-
-For the core, screenshots are less important than technical evidence. Preferred public material:
-
-1. capability/architecture diagram
-2. test-suite summary
-3. sanitized CLI/runtime output
-4. native UI screenshots later, when CC10+ UI work is ready
 
 ### UTUH / 1NFST Studio
 
