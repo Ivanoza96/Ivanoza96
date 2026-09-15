@@ -1,6 +1,6 @@
 ---
 name: Product feedback / collaboration
-aabout: Start a conversation about a product, feedback, testing, or collaboration
+about: Start a conversation about a product, feedback, testing, or collaboration
 title: "[Connect] "
 labels: []
 assignees: []
