@@ -77,7 +77,7 @@ I'm interested in conversations with:
 - selected Laravel/business-system work where scope and expected outcome are clear;
 - people working on local-first AI, privacy-preserving software, or new interface models.
 
-I'm building in public gradually while the commercial repositories remain private. If something here is relevant to what you are building, **open a GitHub conversation/issue or connect through my GitHub profile** and tell me what caught your attention.
+I'm building in public gradually while the commercial repositories remain private. If something here is relevant to what you are building, **[start a product-feedback or collaboration conversation](https://github.com/Ivanoza96/Ivanoza96/issues/new?template=connect.md)** and tell me what caught your attention.
 
 ## Other long-term work
 
