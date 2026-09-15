@@ -78,6 +78,23 @@ A curated composite has been prepared from the verified runtime screenshots. The
 
 ---
 
+### 1NFST World
+
+**Type:** Spatial marketplace concept  
+**Status:** Concept / Active Development  
+**Stack:** Next.js · React · TypeScript · Laravel · PostgreSQL/PostGIS · MapLibre
+
+Verified runtime captures cover the current World 001: Lombok experience:
+
+- spatial world entry and district signals;
+- map-based geographic discovery;
+- property/commerce hierarchy around Lombok City Market Hall;
+- structured discovery that remains usable when the immersive layer is unavailable.
+
+The screenshots are presented as evidence of a running concept implementation, not as a claim that the long-term marketplace, fulfillment, digital-property, or commercial ecosystem is production-ready.
+
+---
+
 ### Arkanara Wedding Demo
 
 **Type:** Deployed web experience  
@@ -105,16 +122,6 @@ This image is Netlify's generated capture from the real production deploy.
 ## Showcase capture queue
 
 The products below remain private or are not directly capturable from the current environment. Their source code stays private; only verified runtime screenshots will be published.
-
-### 1NFST World — needed captures
-
-1. World / discovery entry
-2. Streetscape or spatial discovery view
-3. Building / storefront exterior
-4. Storefront or interior commerce view
-5. Creator Studio or commerce-related view if currently runnable
-
-A production Netlify deployment exists, but the current deploy does not expose an automatic screenshot through the connected deployment metadata.
 
 ### UTUH / 1NFST Studio
 
