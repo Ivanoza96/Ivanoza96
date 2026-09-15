@@ -6,29 +6,40 @@ This page separates **verified runtime captures** from products that are still w
 
 ## Verified runtime work
 
-### KANSSA — Turtle Rescue
+### Yaveli
 
-**Type:** Immersive child learning experience  
-**Status:** Active Development · verified running build  
+**Type:** Cross-platform invitation & event-experience product  
+**Status:** Private Alpha / Active Development  
+**Stack:** Flutter · Dart
+
+![Yaveli verified runtime showcase](./assets/showcase/yaveli-runtime-showcase.webp)
+
+The visual above is composed only from real running-build captures. It shows the current product surface across:
+
+- template discovery and filtering,
+- live editing with visual preview,
+- explicit publish flow,
+- guest / RSVP foundations,
+- feature positioning,
+- pricing direction.
+
+The commercial source remains private. The showcase does not claim that planned cloud, authentication, payment, or growth features are already complete.
+
+---
+
+### KANSSA
+
+**Type:** Immersive learning product for children  
+**Status:** Active Development  
 **Stack:** Flutter · Dart · Android-first
 
-[![KANSSA — Turtle Rescue verified runtime showcase](./assets/showcase/kanssa-turtle-rescue-showcase.webp)](./assets/showcase/kanssa-turtle-rescue-showcase.webp)
+![KANSSA Turtle Rescue verified runtime showcase](./assets/showcase/kanssa-turtle-rescue-showcase.webp)
 
-This showcase is composed only from captures of the real running KANSSA build. The screens demonstrate the current child-experience loop:
+The showcase uses verified captures from the running Turtle Rescue experience. It demonstrates the core child-experience loop:
 
-`Explore → Character needs help → Child acts → Immediate feedback → World changes → Story resolves → Progress continues`
+`Explore → Character needs help → Child acts → Immediate feedback → World changes → Story resolves`
 
-Verified behavior represented in the captures includes:
-
-- child-world discovery entry;
-- Turtle Rescue picture-choice interaction;
-- character reaction to correct and incorrect choices;
-- matching/classification activity;
-- beach-cleanup sorting activity;
-- visible world-state improvement;
-- completion and progress feedback.
-
-The screenshots are presented as development evidence, not as a claim that KANSSA is a finished public release.
+The visual evidence includes character reaction, environmental learning, matching/classification mechanics, beach-cleanup interaction, and completion feedback.
 
 ---
 
@@ -59,20 +70,6 @@ This image is Netlify's generated capture from the real production deploy.
 ## Showcase capture queue
 
 The products below remain private or are not directly capturable from the current environment. Their source code stays private; only verified runtime screenshots will be published.
-
-### Yaveli — needed captures
-
-1. Landing / product entry — desktop
-2. Template Gallery
-3. Live Editor with representative fictional event data
-4. Preview
-5. Dashboard / persistent drafts
-6. Publish flow
-7. Guest-facing invitation view
-8. Responsive mobile view
-9. Optional: 20–60 second product-flow video
-
-**Preferred:** PNG/WebP, no real guest data, no credentials, no personal browser/account details.
 
 ### 1NFST World — needed captures
 
