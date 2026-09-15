@@ -29,9 +29,11 @@ A child-centered learning product built around exploration, action, world reacti
 ### 1NFST
 **Local-first personal intelligence core**  
 `Python` · `Pytest` · `AI Systems`  
-**Status:** Core Development
+**Status:** Core Development / Running Local Runtime
 
 A modular AI systems project focused on model routing, permissions, tools, memory, tasks, retrieval, computer-use foundations, plugins, and resource-aware execution. The project is developed with explicit capability boundaries and broad automated verification.
+
+**Verified runtime visuals:** [View 1NFST Core showcase →](./SHOWCASE.md#1nfst-core)
 
 ## Verified visual showcase
 
