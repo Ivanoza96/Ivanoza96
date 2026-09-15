@@ -1,99 +1,127 @@
-# Visual Product Showcase
+# Verified Visual Showcase
 
-This page separates **verified runtime captures** from products that are still waiting for an approved public screenshot set.
+This page is the public evidence layer for products whose main repositories remain private.
 
-> Only real captures from running builds are used as product evidence. Mockups, AI-generated UI, and reconstructed screens are not presented as implemented functionality.
+> **Evidence rule:** only real captures from running builds are presented as implemented UI. Concept work is labeled as concept work. Private source code, credentials, customer data, and sensitive operational details are not published.
 
-## Verified runtime work
+## Arkanara SystemOS / Barujari × Q Tours
 
-### 1NFST Core
+**Type:** Travel customer experience + internal operating system  
+**Status:** Active private development  
+**Primary stack:** Laravel · PHP · Blade · relational data · PHPUnit
 
-**Type:** Local-first personal intelligence core  
-**Status:** Core Development / Running Local Runtime  
-**Stack:** Python · Pytest · Local AI runtime
+The current runtime set demonstrates both sides of one travel-business system.
 
-![1NFST Core verified local-runtime showcase](./assets/showcase/1nfst-core-runtime-showcase.webp)
+### Customer-facing Barujari × Q Tours
 
-The visual above is composed only from real running-build captures supplied from the current 1NFST interface. It demonstrates the local-first workspace, local model status, private-by-default posture, active chat execution, and technical reasoning inside the current UI.
+Verified screens cover:
 
-The screenshots are presented as runtime evidence only. They do not imply that every planned native-UI, synchronization, team, or hosted capability is complete.
+- journey entry with **Build**, **Transfer**, and **My Trips** paths;
+- step-by-step Lombok journey building;
+- public transfer-request flow;
+- guest continuation and customer-login handoff;
+- traveler-facing booking summary/navigation.
+
+### Internal Arkanara SystemOS
+
+The strongest public-safe runtime evidence was selected around operational depth rather than showing every admin page:
+
+1. **Booking intake** — mobile/partner requests enter a controlled operational queue.
+2. **Booking lifecycle** — inquiry, quotation, confirmation, and operational-workspace states.
+3. **Fleet operations** — vehicle capacity, pricing, documents, availability/service context.
+4. **Finance overview** — payments, invoices, reconciliation, and accounting in one finance workspace.
+5. **Accounting go-live controls** — read-only readiness checks before finance/accounting pilot operation.
+6. **System health** — production-readiness checks with blocker/warning visibility.
+
+Supporting runtime screens also cover organization/access structure, capability gates, operational portal identities, notifications, invoice/receivable flows, accounting reports, bank reconciliation, partner/supplier foundations, and catalog ownership.
+
+Customer-identifying fields are excluded or sanitized before public use.
+
+**[Read the full case study →](./PORTFOLIO.md#arkanara-systemos--barujari--q-tours)**
 
 ---
 
-### Yaveli
+## Yaveli
 
-**Type:** Cross-platform invitation & event-experience product  
-**Status:** Private Alpha / Active Development  
+**Type:** Invitation & event-experience product  
+**Status:** Private Alpha  
 **Stack:** Flutter · Dart
 
 ![Yaveli verified runtime showcase](./assets/showcase/yaveli-runtime-showcase.webp)
 
-The visual above is composed only from real running-build captures. It shows the current product surface across template discovery and filtering, live editing with visual preview, explicit publish flow, guest / RSVP foundations, feature positioning, and pricing direction.
+The current running build demonstrates:
 
-The commercial source remains private. The showcase does not claim that planned cloud, authentication, payment, or growth features are already complete.
+- template discovery and filtering;
+- live invitation editing;
+- persistent local drafts and customization;
+- preview using the shared renderer;
+- explicit publish-flow foundations;
+- guest-facing and RSVP foundations;
+- public feature/pricing direction.
+
+The commercial source remains private. Planned cloud authentication, production payment, and creator-growth features are not presented as complete.
 
 ---
 
-### KANSSA
+## KANSSA
 
 **Type:** Immersive learning product for children  
-**Status:** Active Development  
+**Status:** Active development  
 **Stack:** Flutter · Dart · Android-first
 
 ![KANSSA Turtle Rescue verified runtime showcase](./assets/showcase/kanssa-turtle-rescue-showcase.webp)
 
-The showcase uses verified captures from the running Turtle Rescue experience. It demonstrates the core child-experience loop:
+The Turtle Rescue runtime demonstrates the intended child-experience loop:
 
-`Explore → Character needs help → Child acts → Immediate feedback → World changes → Story resolves`
+`Explore → Character needs help → Child acts → Immediate reaction → World changes → Learning becomes visible → Story resolves`
 
-The visual evidence includes character reaction, environmental learning, matching/classification mechanics, beach-cleanup interaction, and completion feedback.
-
----
-
-### Barujari / Arkanara
-
-**Type:** Travel customer experience + internal operating system  
-**Status:** Active Private Development  
-**Stack:** Laravel · SQLite · Blade · RBAC · Booking/Operations Workflows
-
-Verified runtime captures now cover both sides of the platform:
-
-**Customer-facing Barujari × Q Tours**
-
-- journey entry and trip-building flow;
-- public transfer-booking experience;
-- guest/customer continuation model;
-- booking summary and traveler-facing navigation.
-
-**Internal Arkanara**
-
-- transport operations dashboard;
-- booking queue and lifecycle states;
-- role / access assignment workspace;
-- people, department, position, and assignment structure.
-
-Together, these screens demonstrate a two-sided product model where the customer experience and the internal control system are connected but intentionally use different interfaces and responsibilities.
-
-A curated composite has been prepared from the verified runtime screenshots. The underlying commercial repositories and operational data remain private.
+Current evidence includes picture choice, correct/incorrect character reaction, matching/classification, cleanup/sorting, environmental learning, and completion feedback.
 
 ---
 
-### 1NFST World
+## 1NFST Core
 
-**Type:** Spatial marketplace concept  
-**Status:** Concept / Active Development  
-**Stack:** Next.js · React · TypeScript · Laravel · PostgreSQL/PostGIS · MapLibre
+**Type:** Local-first personal intelligence core  
+**Status:** Core development / running local runtime  
+**Stack:** Python · Pytest · local AI runtime
 
-Verified runtime captures cover the current World 001: Lombok experience:
+![1NFST Core verified local-runtime showcase](./assets/showcase/1nfst-core-runtime-showcase.webp)
+
+The current interface provides visible evidence of:
+
+- local runtime status;
+- local-model selection/state;
+- private-by-default posture;
+- active chat execution;
+- technical reasoning inside the local workspace.
+
+The screenshot is runtime evidence, not a claim that every planned native-UI, synchronization, team, or hosted capability is complete.
+
+---
+
+## 1NFST World
+
+**Type:** Spatial marketplace experiment  
+**Status:** Concept / active development  
+**Stack:** Next.js · React · TypeScript · Laravel · PostgreSQL/PostGIS · Redis · MapLibre
+
+**World 001: Lombok** currently demonstrates:
 
 - spatial world entry and district signals;
 - map-based geographic discovery;
-- property/commerce hierarchy around Lombok City Market Hall;
-- structured discovery that remains usable when the immersive layer is unavailable.
+- district/property anchors;
+- a commerce property with a building → space → zone → slot hierarchy;
+- structured discovery that remains usable without the immersive layer.
 
-The screenshots are presented as evidence of a running concept implementation, not as a claim that the long-term marketplace, fulfillment, digital-property, or commercial ecosystem is production-ready.
+The concept follows a practical split: discovery may be spatial and immersive, while transactions should remain understandable and conventional where reliability/conversion matter.
+
+This is intentionally labeled as an experimental direction, not a production-ready global marketplace.
+
+**[Read the case study →](./PORTFOLIO.md#1nfst-world)**
 
 ---
+
+## Verified deployed invitation work
 
 ### Arkanara Wedding Demo
 
@@ -103,10 +131,6 @@ The screenshots are presented as evidence of a running concept implementation, n
 
 ![Arkanara Wedding Demo — verified Netlify deployment capture](https://d33wubrfki0l68.cloudfront.net/6a8beee1a9c44eb6e82bcdaa/screenshot_2026-08-24-07-14-21-0000.webp)
 
-This image is Netlify's generated capture from the real production deploy. It is used as deployment evidence, not as a claim that every planned Arkanara/Yaveli capability is complete.
-
----
-
 ### Zul–Yus Digital Invitation
 
 **Type:** Deployed invitation experience  
@@ -115,28 +139,21 @@ This image is Netlify's generated capture from the real production deploy. It is
 
 ![Zul–Yus Invitation — verified Netlify deployment capture](https://d33wubrfki0l68.cloudfront.net/6a966236d114462672a71488/screenshot_2026-09-01-05-29-16-0000.webp)
 
-This image is Netlify's generated capture from the real production deploy.
+These deployments are supporting proof of shipped web experiences; they are not presented as evidence that every planned Yaveli or Arkanara capability is complete.
 
 ---
 
-## Showcase capture queue
+## Long-term / architecture-first work
 
-The products below remain private or are not directly capturable from the current environment. Their source code stays private; only verified runtime screenshots will be published.
+**UTUH** and **1NFST Studio** remain architecture/product-direction work for public-portfolio purposes. They will only move into the verified runtime section when there is a real runnable surface worth showing.
 
-### UTUH / 1NFST Studio
+## Public evidence standard
 
-Keep these as concept/architecture showcases for now unless a real runnable UI exists. Publish only verified screens or clearly labeled concept material.
+Before material is added here, I try to keep the standard simple:
 
----
-
-## Capture standard
-
-Before any image is added to the public portfolio:
-
-- capture it from a real running build;
-- use fictional/sanitized user and business data;
-- hide credentials, private messages, account identifiers, bookmarks, and unrelated personal information;
-- do not Photoshop functionality into the image;
-- keep at least one desktop and one mobile view when the product supports both;
-- prefer fewer strong captures over many weak ones;
-- label unfinished products honestly as development, alpha, or preview.
+- capture from a real running build;
+- use fictional or sanitized user/business data;
+- hide credentials, private messages, account identifiers, and unrelated personal information;
+- do not Photoshop unimplemented functionality into a screenshot;
+- prefer a few strong captures over a large gallery of weak ones;
+- label unfinished products honestly as development, alpha, preview, or concept.
