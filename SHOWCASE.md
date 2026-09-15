@@ -4,7 +4,33 @@ This page separates **verified runtime captures** from products that are still w
 
 > Only real captures from running builds are used as product evidence. Mockups, AI-generated UI, and reconstructed screens are not presented as implemented functionality.
 
-## Verified deployed work
+## Verified runtime work
+
+### KANSSA — Turtle Rescue
+
+**Type:** Immersive child learning experience  
+**Status:** Active Development · verified running build  
+**Stack:** Flutter · Dart · Android-first
+
+[![KANSSA — Turtle Rescue verified runtime showcase](./assets/showcase/kanssa-turtle-rescue-showcase.webp)](./assets/showcase/kanssa-turtle-rescue-showcase.webp)
+
+This showcase is composed only from captures of the real running KANSSA build. The screens demonstrate the current child-experience loop:
+
+`Explore → Character needs help → Child acts → Immediate feedback → World changes → Story resolves → Progress continues`
+
+Verified behavior represented in the captures includes:
+
+- child-world discovery entry;
+- Turtle Rescue picture-choice interaction;
+- character reaction to correct and incorrect choices;
+- matching/classification activity;
+- beach-cleanup sorting activity;
+- visible world-state improvement;
+- completion and progress feedback.
+
+The screenshots are presented as development evidence, not as a claim that KANSSA is a finished public release.
+
+---
 
 ### Arkanara Wedding Demo
 
@@ -47,18 +73,6 @@ The products below remain private or are not directly capturable from the curren
 9. Optional: 20–60 second product-flow video
 
 **Preferred:** PNG/WebP, no real guest data, no credentials, no personal browser/account details.
-
-### KANSSA — needed captures
-
-1. Main child-world / scene entry
-2. Turtle Rescue — turtle trapped state
-3. Turtle Rescue — child interaction in progress
-4. Turtle Rescue — character/world reaction
-5. Turtle Rescue — successful resolution / turtle free
-6. One additional activity mechanic (picture choice, drag-and-drop, or match pairs)
-7. Optional: short Android screen recording showing action → reaction
-
-**Preferred:** raw Android/emulator screenshots in portrait or landscape exactly as the game is designed. Do not add decorative mockups before capture.
 
 ### 1NFST World — needed captures
 
