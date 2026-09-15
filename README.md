@@ -24,31 +24,51 @@ I use AI heavily for research, implementation, debugging, and review. Generated 
 
 ### Arkanara SystemOS / Barujari × Q Tours
 
-![Arkanara SystemOS verified runtime showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/arkanara-systemos-showcase.jpg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/arkanara-systemos-showcase.jpg">
+    <img src="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/arkanara-systemos-showcase.jpg" alt="Arkanara SystemOS verified runtime showcase" width="100%" />
+  </a>
+</p>
 
 Customer booking flows and the internal operational control plane across booking, fleet, finance/accounting, access boundaries, and production readiness.
 
 ### Yaveli
 
-![Yaveli verified runtime showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/yaveli-showcase.jpg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/yaveli-showcase.jpg">
+    <img src="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/yaveli-showcase.jpg" alt="Yaveli verified runtime showcase" width="100%" />
+  </a>
+</p>
 
 Template discovery, live editing, publish flow, and guest/RSVP foundations from the running private-alpha build.
 
 ### KANSSA
 
-![KANSSA Turtle Rescue verified runtime showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/kanssa-showcase.jpg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/kanssa-showcase.jpg">
+    <img src="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/kanssa-showcase.jpg" alt="KANSSA Turtle Rescue verified runtime showcase" width="100%" />
+  </a>
+</p>
 
 A child learning loop built around a character that needs help, child action, immediate reaction, environmental learning, and resolution.
 
 ### 1NFST Core
 
-![1NFST Core verified runtime showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/1nfst-core-showcase.jpg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/1nfst-core-showcase.jpg">
+    <img src="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/1nfst-core-showcase.jpg" alt="1NFST Core verified local-runtime showcase" width="100%" />
+  </a>
+</p>
 
 Local runtime, local model state, private-by-default workspace, and active technical conversation in the current interface.
 
 ### 1NFST World
 
-![1NFST World running concept showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/1nfst-world-showcase.jpg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/1nfst-world-showcase.jpg">
+    <img src="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/1nfst-world-showcase.jpg" alt="1NFST World running concept showcase" width="100%" />
+  </a>
+</p>
 
 World 001: Lombok — spatial entry, geographic discovery, commerce-property hierarchy, and a conventional discovery fallback.
 
