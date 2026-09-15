@@ -10,30 +10,9 @@ This page is the public evidence layer for products whose main repositories rema
 **Status:** Active private development  
 **Primary stack:** Laravel · PHP · Blade · relational data · PHPUnit
 
-The current runtime set demonstrates both sides of one travel-business system.
+![Arkanara SystemOS verified runtime showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/arkanara-systemos-showcase.jpg)
 
-### Customer-facing Barujari × Q Tours
-
-Verified screens cover:
-
-- journey entry with **Build**, **Transfer**, and **My Trips** paths;
-- step-by-step Lombok journey building;
-- public transfer-request flow;
-- guest continuation and customer-login handoff;
-- traveler-facing booking summary/navigation.
-
-### Internal Arkanara SystemOS
-
-The strongest public-safe runtime evidence was selected around operational depth rather than showing every admin page:
-
-1. **Booking intake** — mobile/partner requests enter a controlled operational queue.
-2. **Booking lifecycle** — inquiry, quotation, confirmation, and operational-workspace states.
-3. **Fleet operations** — vehicle capacity, pricing, documents, availability/service context.
-4. **Finance overview** — payments, invoices, reconciliation, and accounting in one finance workspace.
-5. **Accounting go-live controls** — read-only readiness checks before finance/accounting pilot operation.
-6. **System health** — production-readiness checks with blocker/warning visibility.
-
-Supporting runtime screens also cover organization/access structure, capability gates, operational portal identities, notifications, invoice/receivable flows, accounting reports, bank reconciliation, partner/supplier foundations, and catalog ownership.
+The runtime evidence covers both sides of one travel-business system: customer journey and booking, plus internal operational control across booking lifecycle, fleet, finance/accounting, organization/access, and production readiness.
 
 Customer-identifying fields are excluded or sanitized before public use.
 
@@ -47,17 +26,9 @@ Customer-identifying fields are excluded or sanitized before public use.
 **Status:** Private Alpha  
 **Stack:** Flutter · Dart
 
-![Yaveli verified runtime showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/yaveli-runtime-showcase.webp)
+![Yaveli verified runtime showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/yaveli-showcase.jpg)
 
-The current running build demonstrates:
-
-- template discovery and filtering;
-- live invitation editing;
-- persistent local drafts and customization;
-- preview using the shared renderer;
-- explicit publish-flow foundations;
-- guest-facing and RSVP foundations;
-- public feature/pricing direction.
+The current running build demonstrates template discovery and filtering, live invitation editing, persistent local drafts and customization, preview, publish-flow foundations, and guest/RSVP foundations.
 
 The commercial source remains private. Planned cloud authentication, production payment, and creator-growth features are not presented as complete.
 
@@ -69,7 +40,7 @@ The commercial source remains private. Planned cloud authentication, production 
 **Status:** Active development  
 **Stack:** Flutter · Dart · Android-first
 
-![KANSSA Turtle Rescue verified runtime showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/kanssa-turtle-rescue-showcase.webp)
+![KANSSA Turtle Rescue verified runtime showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/kanssa-showcase.jpg)
 
 The Turtle Rescue runtime demonstrates the intended child-experience loop:
 
@@ -85,15 +56,9 @@ Current evidence includes picture choice, correct/incorrect character reaction, 
 **Status:** Core development / running local runtime  
 **Stack:** Python · Pytest · local AI runtime
 
-![1NFST Core verified local-runtime showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/1nfst-core-runtime-showcase.webp)
+![1NFST Core verified local-runtime showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/1nfst-core-showcase.jpg)
 
-The current interface provides visible evidence of:
-
-- local runtime status;
-- local-model selection/state;
-- private-by-default posture;
-- active chat execution;
-- technical reasoning inside the local workspace.
+The current interface provides visible evidence of local runtime status, local-model state, private-by-default posture, active chat execution, and technical reasoning inside the local workspace.
 
 The screenshot is runtime evidence, not a claim that every planned native-UI, synchronization, team, or hosted capability is complete.
 
@@ -105,15 +70,9 @@ The screenshot is runtime evidence, not a claim that every planned native-UI, sy
 **Status:** Concept / active development  
 **Stack:** Next.js · React · TypeScript · Laravel · PostgreSQL/PostGIS · Redis · MapLibre
 
-**World 001: Lombok** currently demonstrates:
+![1NFST World running concept showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/1nfst-world-showcase.jpg)
 
-- spatial world entry and district signals;
-- map-based geographic discovery;
-- district/property anchors;
-- a commerce property with a building → space → zone → slot hierarchy;
-- structured discovery that remains usable without the immersive layer.
-
-The concept follows a practical split: discovery may be spatial and immersive, while transactions should remain understandable and conventional where reliability/conversion matter.
+**World 001: Lombok** currently demonstrates spatial world entry, map-based discovery, district/property anchors, a commerce-property hierarchy, and a structured discovery fallback that remains usable without the immersive layer.
 
 This is intentionally labeled as an experimental direction, not a production-ready global marketplace.
 
