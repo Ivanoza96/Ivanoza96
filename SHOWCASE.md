@@ -2,7 +2,7 @@
 
 This page is the public evidence layer for products whose main repositories remain private.
 
-> **Evidence rule:** only real captures from running builds are presented as implemented UI. Concept work is labeled as concept work. Private source code, credentials, customer data, and sensitive operational details are not published.
+> **Evidence rule:** only real captures from running builds are presented as implemented UI. Concept work is labeled as concept work. Private source code, credentials, customer data, third-party personal-event material, and sensitive operational details are not published.
 
 ## Arkanara SystemOS / Barujari × Q Tours
 
@@ -47,7 +47,7 @@ Customer-identifying fields are excluded or sanitized before public use.
 **Status:** Private Alpha  
 **Stack:** Flutter · Dart
 
-![Yaveli verified runtime showcase](./assets/showcase/yaveli-runtime-showcase.webp)
+![Yaveli verified runtime showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/yaveli-runtime-showcase.webp)
 
 The current running build demonstrates:
 
@@ -69,7 +69,7 @@ The commercial source remains private. Planned cloud authentication, production 
 **Status:** Active development  
 **Stack:** Flutter · Dart · Android-first
 
-![KANSSA Turtle Rescue verified runtime showcase](./assets/showcase/kanssa-turtle-rescue-showcase.webp)
+![KANSSA Turtle Rescue verified runtime showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/kanssa-turtle-rescue-showcase.webp)
 
 The Turtle Rescue runtime demonstrates the intended child-experience loop:
 
@@ -85,7 +85,7 @@ Current evidence includes picture choice, correct/incorrect character reaction, 
 **Status:** Core development / running local runtime  
 **Stack:** Python · Pytest · local AI runtime
 
-![1NFST Core verified local-runtime showcase](./assets/showcase/1nfst-core-runtime-showcase.webp)
+![1NFST Core verified local-runtime showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/1nfst-core-runtime-showcase.webp)
 
 The current interface provides visible evidence of:
 
@@ -121,39 +121,18 @@ This is intentionally labeled as an experimental direction, not a production-rea
 
 ---
 
-## Verified deployed invitation work
-
-### Arkanara Wedding Demo
-
-**Type:** Deployed web experience  
-**Status:** Verified Netlify production deployment  
-**Framework:** Next.js
-
-![Arkanara Wedding Demo — verified Netlify deployment capture](https://d33wubrfki0l68.cloudfront.net/6a8beee1a9c44eb6e82bcdaa/screenshot_2026-08-24-07-14-21-0000.webp)
-
-### Zul–Yus Digital Invitation
-
-**Type:** Deployed invitation experience  
-**Status:** Verified Netlify production deployment  
-**Framework:** Next.js
-
-![Zul–Yus Invitation — verified Netlify deployment capture](https://d33wubrfki0l68.cloudfront.net/6a966236d114462672a71488/screenshot_2026-09-01-05-29-16-0000.webp)
-
-These deployments are supporting proof of shipped web experiences; they are not presented as evidence that every planned Yaveli or Arkanara capability is complete.
-
----
-
 ## Long-term / architecture-first work
 
 **UTUH** and **1NFST Studio** remain architecture/product-direction work for public-portfolio purposes. They will only move into the verified runtime section when there is a real runnable surface worth showing.
 
 ## Public evidence standard
 
-Before material is added here, I try to keep the standard simple:
+Before material is added here, I keep the standard simple:
 
 - capture from a real running build;
 - use fictional or sanitized user/business data;
 - hide credentials, private messages, account identifiers, and unrelated personal information;
+- do not publish third-party personal-event material without an explicit public-use reason;
 - do not Photoshop unimplemented functionality into a screenshot;
 - prefer a few strong captures over a large gallery of weak ones;
 - label unfinished products honestly as development, alpha, preview, or concept.
