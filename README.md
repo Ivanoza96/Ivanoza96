@@ -1,56 +1,88 @@
 # Ivan Octareza
 
-**Laravel Web Developer | Business Apps, Admin Systems & AI-Assisted Development**
+**Product Builder | Business Software, Flutter Apps & AI Systems**
 
-I build and improve practical web applications, especially business systems that need clear workflows, access control, database-backed operations, and reliable handover.
+I build practical software products with a strong focus on clear workflows, reliable behavior, and disciplined verification. My work spans business systems, consumer applications, and local-first AI systems.
 
-My strongest current focus is **Laravel development for existing applications**: fixing bugs, adding scoped features, improving admin/internal systems, implementing authentication and role permissions, working with relational data, and validating changes with tests.
+I use AI extensively to accelerate research, implementation, debugging, and review, but I do not treat generated code as automatically correct. Changes are reviewed, tested, and validated before I consider them done.
 
-## What I work on
-
-- Laravel bug fixing and existing-codebase improvements
-- Authentication, account lifecycle, roles and permissions
-- CRUD modules and internal/admin dashboards
-- Database migrations and Eloquent relationships
-- Booking, operations, and workflow-oriented systems
-- Blade / responsive interface fixes
-- REST API integrations
-- PHPUnit feature and regression testing
-- Git / GitHub based delivery
-- AI-assisted implementation with human review and testing
-
-## Selected project experience
-
-### Laravel Business Operations Platform
-Private Laravel application covering internal access control, organization membership, operational workflows, bookings, transport-related operations, finance foundations, reporting, and automated feature testing.
-
-**Stack:** PHP 8.3 · Laravel 13 · Eloquent · SQLite · PHPUnit · Blade · Git/GitHub
-
-### Travel Commerce & Operations Platform
-Private travel technology platform combining customer-facing commerce, AI-assisted travel workflows, operational controls, inventory, finance, reliability, and browser QA.
-
-**Stack:** Next.js · React · TypeScript · PostgreSQL · Prisma · Playwright
-
-### 1NFST AI Core
-Private local-first AI systems research and engineering project with modular permissions, memory, tools, tasks, retrieval, model routing, computer-use foundations, and extensive automated testing.
-
-**Stack:** Python · Pytest · AI systems · permissions · memory · retrieval · tools
+## Featured builds
 
 ### Yaveli
-Cross-platform invitation and event-experience product with editor, persistent drafts, preview, publish lifecycle, and guest-facing foundations.
+**Event & invitation experience platform**  
+`Flutter` · `Dart` · `GitHub Actions`  
+**Status:** Private Alpha / Active Development
 
-**Stack:** Flutter · Dart · GitHub Actions
+A cross-platform product for creating, previewing, publishing, and sharing digital event experiences. Current work includes a live editor, persistent drafts, visual customization, shared preview rendering, and the foundations of a publish lifecycle and guest-facing experience.
 
-## Working style
+### KANSSA
+**Immersive learning worlds for children**  
+`Flutter` · `Dart` · `Android-first`  
+**Status:** Active Development
 
-I use AI tools to accelerate research, implementation, debugging, and review, but I do not treat generated code as automatically correct. I review changes, run the relevant checks, inspect failures, and take responsibility for the delivered result.
+A child-centered learning product built around exploration, action, world reaction, and story-driven learning rather than dashboard-style lessons. Current work includes interactive learning scenes, character reactions, offline-friendly progress, and activity mechanics such as picture choice, drag-and-drop, and matching.
 
-For client work I prefer **clear scope, small reviewable changes, Git-based delivery, testing before handover, and honest communication about risks and limitations**.
+### 1NFST
+**Local-first personal intelligence core**  
+`Python` · `Pytest` · `AI Systems`  
+**Status:** Core Development
 
-## Current freelance focus
+A modular AI systems project focused on model routing, permissions, tools, memory, tasks, retrieval, computer-use foundations, plugins, and resource-aware execution. The project is developed with explicit capability boundaries and broad automated verification.
 
-I am currently available for focused Laravel work such as:
+## Other work
 
-`Bug Fixes` · `Feature Additions` · `Authentication / RBAC` · `Admin Modules` · `Database Changes` · `Responsive Fixes` · `API Integration` · `Regression Testing`
+### Barujari / Arkanara
+Private travel commerce and business-operations systems covering customer journeys, bookings, internal access, operational workflows, organizational controls, finance foundations, transport operations, and reliability-oriented testing.
 
-For a more detailed, sanitized overview of selected work, see **[PORTFOLIO.md](./PORTFOLIO.md)**.
+### 1NFST World
+A spatial digital marketplace concept where discovery, commerce, hospitality, mobility, media, and digital property can coexist inside a world-based experience rather than a conventional listing grid.
+
+### UTUH
+Digital trust infrastructure research focused on identity, consent, authority, verification, risk signals, credentials, auditability, and human-controlled delegation to AI systems.
+
+### 1NFST Studio
+A longer-term design and engineering platform direction for architecture, mechanical, furniture, and fashion workflows with deterministic tooling and optional AI assistance.
+
+> Most product repositories are intentionally private while their architecture and commercial direction are still evolving. Public demos, screenshots, build notes, and sanitized showcases will be added as individual projects become ready for external testing.
+
+## Engineering strengths
+
+My strongest current client-work capability is focused Laravel development for existing applications, including:
+
+- bug investigation and scoped feature additions;
+- authentication, account lifecycle, RBAC, and permissions;
+- CRUD, admin, and internal operations modules;
+- Eloquent relationships and database migrations;
+- booking and workflow-oriented systems;
+- responsive Blade/UI corrections;
+- REST API integrations;
+- PHPUnit feature and regression testing;
+- Git/GitHub-based delivery and technical handover.
+
+I also work across Flutter/Dart, Python-based AI systems, TypeScript/React applications, relational databases, and automated testing where they are part of my own products or a clearly scoped project.
+
+## How I work
+
+I prefer small, reviewable changes over opaque large rewrites. For important changes I use isolated verification where practical, regression checks, explicit release criteria, and rollback-aware delivery.
+
+My general workflow is:
+
+`Understand → Scope → Implement → Test → Review → Verify → Ship`
+
+AI is part of that workflow, not a replacement for verification or responsibility.
+
+## Selected client work
+
+I am open to focused collaboration where the scope is clear and the outcome can be verified, especially:
+
+`Laravel Bug Fixes` · `Feature Additions` · `Authentication / RBAC` · `Admin Systems` · `Database Changes` · `Responsive Fixes` · `API Integration` · `Regression Testing`
+
+For larger infrastructure, security-critical systems, production payments, or lead-architect responsibilities, I prefer to define scope and risk carefully rather than overstate experience.
+
+## Detailed case studies
+
+A more detailed, sanitized overview of selected private work is available in **[PORTFOLIO.md](./PORTFOLIO.md)**.
+
+## Connect
+
+I am currently building in public gradually while the main commercial repositories remain private. If you are interested in a product, want to exchange feedback, or see a potential collaboration, GitHub is the best place to start the conversation.
