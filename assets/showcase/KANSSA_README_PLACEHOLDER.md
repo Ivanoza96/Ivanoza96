@@ -1,0 +1,1 @@
+KANSSA showcase asset prepared from verified runtime captures. Binary image upload pending connector-safe attachment flow.
