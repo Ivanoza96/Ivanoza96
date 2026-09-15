@@ -44,7 +44,13 @@ The showcase only uses captures from running builds. Private source code, creden
 ## Other work
 
 ### Barujari / Arkanara
-Private travel commerce and business-operations systems covering customer journeys, bookings, internal access, operational workflows, organizational controls, finance foundations, transport operations, and reliability-oriented testing.
+**Travel customer experience + internal operating system**  
+`Laravel` · `SQLite` · `Blade` · `RBAC` · `Booking & Operations Workflows`  
+**Status:** Active Private Development
+
+A two-sided travel platform combining the public Barujari × Q Tours customer journey with Arkanara internal operations. Current verified screens cover journey building, transfer booking, guest/customer flows, transport operations, booking lifecycle, access/RBAC, and people/organization management.
+
+**Verified runtime evidence:** [View Barujari / Arkanara showcase →](./SHOWCASE.md#barujari--arkanara)
 
 ### 1NFST World
 A spatial digital marketplace concept where discovery, commerce, hospitality, mobility, media, and digital property can coexist inside a world-based experience rather than a conventional listing grid.
