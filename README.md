@@ -13,7 +13,9 @@ I use AI extensively to accelerate research, implementation, debugging, and revi
 `Flutter` · `Dart` · `GitHub Actions`  
 **Status:** Private Alpha / Active Development
 
-A cross-platform product for creating, previewing, publishing, and sharing digital event experiences. Current work includes a live editor, persistent drafts, visual customization, shared preview rendering, and the foundations of a publish lifecycle and guest-facing experience.
+A cross-platform product for creating, previewing, publishing, and sharing digital event experiences. Current work includes a live editor, persistent drafts, visual customization, shared preview rendering, an explicit publish flow, and guest-facing / RSVP foundations.
+
+**Verified runtime visuals:** [View Yaveli showcase →](./SHOWCASE.md#yaveli)
 
 ### KANSSA
 **Immersive learning worlds for children**  
@@ -22,9 +24,7 @@ A cross-platform product for creating, previewing, publishing, and sharing digit
 
 A child-centered learning product built around exploration, action, world reaction, and story-driven learning rather than dashboard-style lessons. Current work includes interactive learning scenes, character reactions, offline-friendly progress, and activity mechanics such as picture choice, drag-and-drop, and matching.
 
-[![KANSSA — Turtle Rescue verified runtime showcase](./assets/showcase/kanssa-turtle-rescue-showcase.webp)](./SHOWCASE.md#kanssa--turtle-rescue)
-
-**[View the verified KANSSA runtime showcase →](./SHOWCASE.md#kanssa--turtle-rescue)**
+**Verified runtime visuals:** [View KANSSA showcase →](./SHOWCASE.md#kanssa)
 
 ### 1NFST
 **Local-first personal intelligence core**  
@@ -35,9 +35,9 @@ A modular AI systems project focused on model routing, permissions, tools, memor
 
 ## Verified visual showcase
 
-Real deployment captures and the public screenshot queue are maintained in **[SHOWCASE.md](./SHOWCASE.md)**.
+Real deployment captures and verified runtime screenshots are maintained in **[SHOWCASE.md](./SHOWCASE.md)**.
 
-The showcase only uses verified captures from running builds. Private source code, credentials, customer data, and fabricated UI are intentionally excluded.
+The showcase only uses captures from running builds. Private source code, credentials, customer data, and fabricated UI are intentionally excluded.
 
 ## Other work
 
@@ -53,7 +53,7 @@ Digital trust infrastructure research focused on identity, consent, authority, v
 ### 1NFST Studio
 A longer-term design and engineering platform direction for architecture, mechanical, furniture, and fashion workflows with deterministic tooling and optional AI assistance.
 
-> Most product repositories are intentionally private while their architecture and commercial direction are still evolving. Public demos, screenshots, build notes, and sanitized showcases will be added as individual projects become ready for external testing.
+> Most product repositories are intentionally private while their architecture and commercial direction are still evolving. Public demos, screenshots, build notes, and sanitized showcases are added as individual projects become ready for external review.
 
 ## Engineering strengths
 
