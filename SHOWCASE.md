@@ -50,6 +50,34 @@ The visual evidence includes character reaction, environmental learning, matchin
 
 ---
 
+### Barujari / Arkanara
+
+**Type:** Travel customer experience + internal operating system  
+**Status:** Active Private Development  
+**Stack:** Laravel · SQLite · Blade · RBAC · Booking/Operations Workflows
+
+Verified runtime captures now cover both sides of the platform:
+
+**Customer-facing Barujari × Q Tours**
+
+- journey entry and trip-building flow;
+- public transfer-booking experience;
+- guest/customer continuation model;
+- booking summary and traveler-facing navigation.
+
+**Internal Arkanara**
+
+- transport operations dashboard;
+- booking queue and lifecycle states;
+- role / access assignment workspace;
+- people, department, position, and assignment structure.
+
+Together, these screens demonstrate a two-sided product model where the customer experience and the internal control system are connected but intentionally use different interfaces and responsibilities.
+
+A curated composite has been prepared from the verified runtime screenshots. The underlying commercial repositories and operational data remain private.
+
+---
+
 ### Arkanara Wedding Demo
 
 **Type:** Deployed web experience  
@@ -87,16 +115,6 @@ The products below remain private or are not directly capturable from the curren
 5. Creator Studio or commerce-related view if currently runnable
 
 A production Netlify deployment exists, but the current deploy does not expose an automatic screenshot through the connected deployment metadata.
-
-### Barujari / Arkanara — needed captures
-
-1. Public travel discovery/home
-2. Booking flow
-3. My Trips / ticket or traveler-facing trip state
-4. Internal operations overview
-5. Access / RBAC workspace
-6. Booking/transport operations view
-7. Finance/payment lifecycle view, using fictional or sanitized data only
 
 ### UTUH / 1NFST Studio
 
