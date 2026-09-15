@@ -22,38 +22,41 @@ I use AI heavily for research, implementation, debugging, and review. Generated 
 
 ## Selected runtime proof
 
+### Arkanara SystemOS / Barujari × Q Tours
+
+![Arkanara SystemOS verified runtime showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/arkanara-systemos-showcase.jpg)
+
+Customer booking flows and the internal operational control plane across booking, fleet, finance/accounting, access boundaries, and production readiness.
+
 ### Yaveli
 
-![Yaveli verified runtime showcase](./assets/showcase/yaveli-runtime-showcase.webp)
+![Yaveli verified runtime showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/yaveli-showcase.jpg)
 
 Template discovery, live editing, publish flow, and guest/RSVP foundations from the running private-alpha build.
 
 ### KANSSA
 
-![KANSSA Turtle Rescue verified runtime showcase](./assets/showcase/kanssa-turtle-rescue-showcase.webp)
+![KANSSA Turtle Rescue verified runtime showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/kanssa-showcase.jpg)
 
 A child learning loop built around a character that needs help, child action, immediate reaction, environmental learning, and resolution.
 
 ### 1NFST Core
 
-![1NFST Core verified runtime showcase](./assets/showcase/1nfst-core-runtime-showcase.webp)
+![1NFST Core verified runtime showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/1nfst-core-showcase.jpg)
 
 Local runtime, local model state, private-by-default workspace, and active technical conversation in the current interface.
+
+### 1NFST World
+
+![1NFST World running concept showcase](https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/1nfst-world-showcase.jpg)
+
+World 001: Lombok — spatial entry, geographic discovery, commerce-property hierarchy, and a conventional discovery fallback.
 
 ## Arkanara SystemOS
 
 This is currently my deepest business-system build. The platform connects a public travel experience with an internal control plane instead of treating the customer website and back office as unrelated applications.
 
-Current verified areas include:
-
-- booking intake, inquiry, quotation, confirmation, and operational queues;
-- customer and trip workflows;
-- vehicle/fleet records, capacity, pricing, documents, and maintenance context;
-- partner/supplier and product-catalog foundations;
-- payments, invoices, reconciliation, accounting, and reporting foundations;
-- users, roles, organization structure, access boundaries, and capability gates;
-- portal identities for operational actors;
-- notifications and production-readiness/system-health checks.
+Current verified areas include booking intake and lifecycle, customer/trip workflows, fleet operations, partner/product foundations, finance/accounting, internal access and organization, operational portal identities, notifications, and production-readiness checks.
 
 The public case study uses sanitized data and does not expose private source code, credentials, customer records, or internal commercial rules.
 
@@ -69,15 +72,9 @@ My strongest current implementation stack is Laravel/PHP for business systems, w
 
 ## Open to
 
-I'm interested in conversations with:
+I'm interested in conversations with early users/testers, founders and operators with real workflow problems, developers/designers who want to exchange product feedback or collaborate, selected Laravel/business-system work, and people working on local-first AI or privacy-preserving software.
 
-- early users and testers for Yaveli and KANSSA;
-- founders and operators with real workflow problems in travel, booking, operations, or internal systems;
-- developers/designers who want to exchange product feedback or collaborate;
-- selected Laravel/business-system work where scope and expected outcome are clear;
-- people working on local-first AI, privacy-preserving software, or new interface models.
-
-I'm building in public gradually while the commercial repositories remain private. If something here is relevant to what you are building, **[start a product-feedback or collaboration conversation](https://github.com/Ivanoza96/Ivanoza96/issues/new?template=connect.md)** and tell me what caught your attention.
+I'm building in public gradually while the commercial repositories remain private. If something here is relevant to what you are building, **open a GitHub conversation/issue or connect through my GitHub profile** and tell me what caught your attention.
 
 ## Other long-term work
 
