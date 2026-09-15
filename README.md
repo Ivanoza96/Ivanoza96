@@ -1,112 +1,87 @@
 # Ivan Octareza
 
-**Product Builder | Business Software, Flutter Apps & AI Systems**
+**Product Builder from Indonesia**  
+Business systems · Flutter products · local-first AI
 
-I build practical software products with a strong focus on clear workflows, reliable behavior, and disciplined verification. My work spans business systems, consumer applications, and local-first AI systems.
+I build software products end to end: product flow, interface, data model, business rules, testing, and release verification. Most commercial repositories stay private while they are still evolving, so this profile focuses on **verified runtime evidence, sanitized case studies, and what is actually implemented today**.
 
-I use AI extensively to accelerate research, implementation, debugging, and review, but I do not treat generated code as automatically correct. Changes are reviewed, tested, and validated before I consider them done.
+I use AI heavily for research, implementation, debugging, and review. Generated output is not treated as automatically correct: important changes are tested, reviewed, and verified before I consider them done.
 
-## Featured builds
+## What I'm building
+
+| Product | What it is | Current status |
+| --- | --- | --- |
+| **Arkanara SystemOS / Barujari × Q Tours** | Travel customer experience + internal operating system for booking, fleet, finance, accounting, access, organization, and operational readiness | **Active private development** |
+| **Yaveli** | Cross-platform invitation and event-experience platform with templates, live editing, publishing, and guest-facing foundations | **Private Alpha** |
+| **KANSSA** | Immersive learning worlds for children built around action, character reaction, and visible world change | **Active development** |
+| **1NFST Core** | Local-first personal intelligence core with modular tools, memory, tasks, retrieval, plugins, and resource-aware execution | **Running local runtime / core development** |
+| **1NFST World** | Experimental spatial marketplace where discovery, commerce, hospitality, mobility, and digital property share one world graph | **Concept / active development** |
+
+**See the real running builds:** **[Verified Visual Showcase →](./SHOWCASE.md)**  
+**See the deeper technical/product stories:** **[Selected Case Studies →](./PORTFOLIO.md)**
+
+## Selected runtime proof
 
 ### Yaveli
-**Event & invitation experience platform**  
-`Flutter` · `Dart` · `GitHub Actions`  
-**Status:** Private Alpha / Active Development
 
-A cross-platform product for creating, previewing, publishing, and sharing digital event experiences. Current work includes a live editor, persistent drafts, visual customization, shared preview rendering, an explicit publish flow, and guest-facing / RSVP foundations.
+![Yaveli verified runtime showcase](./assets/showcase/yaveli-runtime-showcase.webp)
 
-**Verified runtime visuals:** [View Yaveli showcase →](./SHOWCASE.md#yaveli)
+Template discovery, live editing, publish flow, and guest/RSVP foundations from the running private-alpha build.
 
 ### KANSSA
-**Immersive learning worlds for children**  
-`Flutter` · `Dart` · `Android-first`  
-**Status:** Active Development
 
-A child-centered learning product built around exploration, action, world reaction, and story-driven learning rather than dashboard-style lessons. Current work includes interactive learning scenes, character reactions, offline-friendly progress, and activity mechanics such as picture choice, drag-and-drop, and matching.
+![KANSSA Turtle Rescue verified runtime showcase](./assets/showcase/kanssa-turtle-rescue-showcase.webp)
 
-**Verified runtime visuals:** [View KANSSA showcase →](./SHOWCASE.md#kanssa)
+A child learning loop built around a character that needs help, child action, immediate reaction, environmental learning, and resolution.
 
-### 1NFST
-**Local-first personal intelligence core**  
-`Python` · `Pytest` · `AI Systems`  
-**Status:** Core Development / Running Local Runtime
+### 1NFST Core
 
-A modular AI systems project focused on model routing, permissions, tools, memory, tasks, retrieval, computer-use foundations, plugins, and resource-aware execution. The project is developed with explicit capability boundaries and broad automated verification.
+![1NFST Core verified runtime showcase](./assets/showcase/1nfst-core-runtime-showcase.webp)
 
-**Verified runtime visuals:** [View 1NFST Core showcase →](./SHOWCASE.md#1nfst-core)
+Local runtime, local model state, private-by-default workspace, and active technical conversation in the current interface.
 
-## Verified visual showcase
+## Arkanara SystemOS
 
-Real deployment captures and verified runtime screenshots are maintained in **[SHOWCASE.md](./SHOWCASE.md)**.
+This is currently my deepest business-system build. The platform connects a public travel experience with an internal control plane instead of treating the customer website and back office as unrelated applications.
 
-The showcase only uses captures from running builds. Private source code, credentials, customer data, and fabricated UI are intentionally excluded.
+Current verified areas include:
 
-## Other work
+- booking intake, inquiry, quotation, confirmation, and operational queues;
+- customer and trip workflows;
+- vehicle/fleet records, capacity, pricing, documents, and maintenance context;
+- partner/supplier and product-catalog foundations;
+- payments, invoices, reconciliation, accounting, and reporting foundations;
+- users, roles, organization structure, access boundaries, and capability gates;
+- portal identities for operational actors;
+- notifications and production-readiness/system-health checks.
 
-### Barujari / Arkanara
-**Travel customer experience + internal operating system**  
-`Laravel` · `SQLite` · `Blade` · `RBAC` · `Booking & Operations Workflows`  
-**Status:** Active Private Development
+The public case study uses sanitized data and does not expose private source code, credentials, customer records, or internal commercial rules.
 
-A two-sided travel platform combining the public Barujari × Q Tours customer journey with Arkanara internal operations. Current verified screens cover journey building, transfer booking, guest/customer flows, transport operations, booking lifecycle, access/RBAC, and people/organization management.
+**[View Arkanara / Barujari case study →](./PORTFOLIO.md#arkanara-systemos--barujari--q-tours)**
 
-**Verified runtime evidence:** [View Barujari / Arkanara showcase →](./SHOWCASE.md#barujari--arkanara)
+## Engineering approach
 
-### 1NFST World
-**Spatial marketplace concept**  
-`Next.js` · `React` · `TypeScript` · `Laravel` · `PostgreSQL/PostGIS` · `MapLibre`  
-**Status:** Concept / Active Development
-
-A spatial digital marketplace where discovery, commerce, hospitality, mobility, media, and digital property can coexist inside a world-based experience rather than a conventional listing grid. Current verified screens cover World 001 entry, geographic discovery, property/commerce structure, and structured non-immersive discovery.
-
-**Verified runtime evidence:** [View 1NFST World showcase →](./SHOWCASE.md#1nfst-world)
-
-### UTUH
-Digital trust infrastructure research focused on identity, consent, authority, verification, risk signals, credentials, auditability, and human-controlled delegation to AI systems.
-
-### 1NFST Studio
-A longer-term design and engineering platform direction for architecture, mechanical, furniture, and fashion workflows with deterministic tooling and optional AI assistance.
-
-> Most product repositories are intentionally private while their architecture and commercial direction are still evolving. Public demos, screenshots, build notes, and sanitized showcases are added as individual projects become ready for external review.
-
-## Engineering strengths
-
-My strongest current client-work capability is focused Laravel development for existing applications, including:
-
-- bug investigation and scoped feature additions;
-- authentication, account lifecycle, RBAC, and permissions;
-- CRUD, admin, and internal operations modules;
-- Eloquent relationships and database migrations;
-- booking and workflow-oriented systems;
-- responsive Blade/UI corrections;
-- REST API integrations;
-- PHPUnit feature and regression testing;
-- Git/GitHub-based delivery and technical handover.
-
-I also work across Flutter/Dart, Python-based AI systems, TypeScript/React applications, relational databases, and automated testing where they are part of my own products or a clearly scoped project.
-
-## How I work
-
-I prefer small, reviewable changes over opaque large rewrites. For important changes I use isolated verification where practical, regression checks, explicit release criteria, and rollback-aware delivery.
-
-My general workflow is:
+I prefer small, reviewable changes over opaque rewrites. For important work I use isolated verification where practical, regression checks, explicit release criteria, and rollback-aware delivery.
 
 `Understand → Scope → Implement → Test → Review → Verify → Ship`
 
-AI is part of that workflow, not a replacement for verification or responsibility.
+My strongest current implementation stack is Laravel/PHP for business systems, with active product work in Flutter/Dart, Python AI systems, TypeScript/React, relational databases, and automated testing.
 
-## Selected client work
+## Open to
 
-I am open to focused collaboration where the scope is clear and the outcome can be verified, especially:
+I'm interested in conversations with:
 
-`Laravel Bug Fixes` · `Feature Additions` · `Authentication / RBAC` · `Admin Systems` · `Database Changes` · `Responsive Fixes` · `API Integration` · `Regression Testing`
+- early users and testers for Yaveli and KANSSA;
+- founders and operators with real workflow problems in travel, booking, operations, or internal systems;
+- developers/designers who want to exchange product feedback or collaborate;
+- selected Laravel/business-system work where scope and expected outcome are clear;
+- people working on local-first AI, privacy-preserving software, or new interface models.
 
-For larger infrastructure, security-critical systems, production payments, or lead-architect responsibilities, I prefer to define scope and risk carefully rather than overstate experience.
+I'm building in public gradually while the commercial repositories remain private. If something here is relevant to what you are building, **open a GitHub conversation/issue or connect through my GitHub profile** and tell me what caught your attention.
 
-## Detailed case studies
+## Other long-term work
 
-A more detailed, sanitized overview of selected private work is available in **[PORTFOLIO.md](./PORTFOLIO.md)**.
+**UTUH** — digital trust infrastructure research around identity, consent, authority, verification, credentials, auditability, and human-controlled AI delegation.  
+**1NFST Studio** — longer-term design/engineering platform direction for architecture, mechanical, furniture, and fashion workflows.
 
-## Connect
-
-I am currently building in public gradually while the main commercial repositories remain private. If you are interested in a product, want to exchange feedback, or see a potential collaboration, GitHub is the best place to start the conversation.
+> Public evidence on this profile is intentionally conservative: implemented capability is separated from roadmap, concept work is labeled as concept work, and private customer/business data is not published.
