@@ -1,1 +1,0 @@
-Temporary note: the 1NFST Core runtime showcase asset is prepared from verified running-build captures and will be linked from SHOWCASE.md after binary asset validation.
