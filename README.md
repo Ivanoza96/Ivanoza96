@@ -62,6 +62,8 @@ A child learning loop built around a character that needs help, child action, im
 
 Local runtime, local model state, private-by-default workspace, and active technical conversation in the current interface.
 
+Latest verified engineering gate: **2,503 Pytest tests passed in 15.32s** with **full Python compile clean**, verified at commit `7e1ac770...`.
+
 ### 1NFST World
 
 <p align="center">

@@ -120,7 +120,7 @@ A private, local-first personal-intelligence core focused on replaceable compone
 - plugin/MCP capability foundations;
 - resource-aware execution and routing;
 - a local workspace showing local model state, private-by-default posture, and active chat execution;
-- broad automated verification across the core subsystems.
+- full Python compile clean and **2,503 Pytest tests passing in 15.32s** at verified commit `7e1ac770...`.
 
 ### Engineering direction
 

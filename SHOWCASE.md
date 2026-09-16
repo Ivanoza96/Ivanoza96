@@ -76,6 +76,8 @@ Current evidence includes picture choice, correct/incorrect character reaction, 
 
 The current interface provides visible evidence of local runtime status, local-model state, private-by-default posture, active chat execution, and technical reasoning inside the local workspace.
 
+Latest verified engineering gate: **2,503 Pytest tests passed in 15.32s** with **full Python compile clean**, verified at commit `7e1ac770...`.
+
 The screenshot is runtime evidence, not a claim that every planned native-UI, synchronization, team, or hosted capability is complete.
 
 ---
