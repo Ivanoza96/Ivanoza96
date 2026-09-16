@@ -4,7 +4,7 @@ This page is the public evidence layer for products whose main repositories rema
 
 > **Evidence rule:** only real captures from running builds are presented as implemented UI. Concept work is labeled as concept work. Private source code, credentials, customer data, third-party personal-event material, and sensitive operational details are not published.
 
-## Arkanara SystemOS / Barujari × Q Tours
+## Arkanara SystemOS
 
 **Type:** Travel customer experience + internal operating system  
 **Status:** Active private development  
@@ -20,7 +20,7 @@ The runtime evidence covers both sides of one travel-business system: customer j
 
 Customer-identifying fields are excluded or sanitized before public use.
 
-**[Read the full case study →](./PORTFOLIO.md#arkanara-systemos--barujari--q-tours)**
+**[Read the full case study →](./PORTFOLIO.md#arkanara-systemos)**
 
 ---
 
