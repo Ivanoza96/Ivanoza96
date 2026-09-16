@@ -11,7 +11,7 @@ I use AI heavily for research, implementation, debugging, and review. Generated 
 
 | Product | What it is | Current status |
 | --- | --- | --- |
-| **Arkanara SystemOS / Barujari × Q Tours** | Travel customer experience + internal operating system for booking, fleet, finance, accounting, access, organization, and operational readiness | **Active private development** |
+| **Arkanara SystemOS** | Travel customer experience + internal operating system for booking, fleet, finance, accounting, access, organization, and operational readiness | **Active private development** |
 | **Yaveli** | Cross-platform invitation and event-experience platform with templates, live editing, publishing, and guest-facing foundations | **Private Alpha** |
 | **KANSSA** | Immersive learning worlds for children built around action, character reaction, and visible world change | **Active development** |
 | **1NFST Core** | Local-first personal intelligence core with modular tools, memory, tasks, retrieval, plugins, and resource-aware execution | **Running local runtime / core development** |
@@ -22,7 +22,7 @@ I use AI heavily for research, implementation, debugging, and review. Generated 
 
 ## Selected runtime proof
 
-### Arkanara SystemOS / Barujari × Q Tours
+### Arkanara SystemOS
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/arkanara-systemos-showcase.jpg">
@@ -82,7 +82,7 @@ Current verified areas include booking intake and lifecycle, customer/trip workf
 
 The public case study uses sanitized data and does not expose private source code, credentials, customer records, or internal commercial rules.
 
-**[View Arkanara / Barujari case study →](./PORTFOLIO.md#arkanara-systemos--barujari--q-tours)**
+**[View Arkanara SystemOS case study →](./PORTFOLIO.md#arkanara-systemos)**
 
 ## Engineering approach
 
