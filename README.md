@@ -1,24 +1,30 @@
 # Ivan Octareza
 
 **Product Builder from Indonesia**  
-Business systems · Flutter products · local-first AI
+Laravel business systems · Flutter products · local-first AI
 
-I build software products end to end: product flow, interface, data model, business rules, testing, and release verification. Most commercial repositories stay private while they are still evolving, so this profile focuses on **verified runtime evidence, sanitized case studies, and what is actually implemented today**.
+I build software products end to end: product flow, interface, data model, business rules, implementation, testing, and release verification.
 
-I use AI heavily for research, implementation, debugging, and review. Generated output is not treated as automatically correct: important changes are tested, reviewed, and verified before I consider them done.
+> **Available for selected paid implementation work** — especially focused Laravel/business-system features, Flutter product work, and practical AI integration.
 
-## What I'm building
+## What I can help with
 
-| Product | What it is | Current status |
+- **Laravel / PHP business systems** — bug fixes, authentication, account lifecycle, roles & permissions, admin/operational modules, booking/workflow features, relational data changes, API integration, and regression tests.
+- **Flutter / Dart product work** — responsive product flows, stateful editing experiences, app features, runtime fixes, and automated testing.
+- **Python / AI systems** — local-first AI prototypes, model/tool integration, retrieval, permissions, task execution, and verification-oriented implementation.
+- **Existing products** — I am comfortable entering an existing codebase, scoping a focused change, implementing it, testing it, and handing back a reviewable result.
+
+**[Verified Visual Showcase →](./SHOWCASE.md)** · **[Selected Case Studies →](./PORTFOLIO.md)** · **[Work With Me →](./WORK_WITH_ME.md)**
+
+## Selected products
+
+| Product | What it demonstrates | Status |
 | --- | --- | --- |
-| **Arkanara SystemOS** | Travel customer experience + internal operating system for booking, fleet, finance, accounting, access, organization, and operational readiness | **Active private development** |
-| **Yaveli** | Cross-platform invitation and event-experience platform with templates, live editing, publishing, and guest-facing foundations | **Private Alpha** |
-| **KANSSA** | Immersive learning worlds for children built around action, character reaction, and visible world change | **Active development** |
-| **1NFST Core** | Local-first personal intelligence core with modular tools, memory, tasks, retrieval, plugins, and resource-aware execution | **Running local runtime / core development** |
-| **1NFST World** | Experimental spatial marketplace where discovery, commerce, hospitality, mobility, and digital property share one world graph | **Concept / active development** |
-
-**See the real running builds:** **[Verified Visual Showcase →](./SHOWCASE.md)**  
-**See the deeper technical/product stories:** **[Selected Case Studies →](./PORTFOLIO.md)**
+| **Arkanara SystemOS** | Travel customer experience + internal operating system covering booking, fleet, finance/accounting, organization, access, and operational readiness | Active private development |
+| **Yaveli** | Cross-platform invitation and event-experience product with templates, live editing, drafts, preview, and publishing foundations | Private Alpha |
+| **KANSSA** | Immersive learning worlds for children built around action, character reaction, and visible world change | Active development |
+| **1NFST Core** | Local-first personal intelligence core with tools, memory, tasks, retrieval, plugins, permissions, and resource-aware execution | Running local runtime / core development |
+| **1NFST World** | Spatial marketplace experiment combining geographic discovery, commerce, hospitality, mobility, and digital property | Concept / active development |
 
 ## Selected runtime proof
 
@@ -30,7 +36,7 @@ I use AI heavily for research, implementation, debugging, and review. Generated 
   </a>
 </p>
 
-Customer booking flows and the internal operational control plane across booking, fleet, finance/accounting, access boundaries, and production readiness.
+Customer booking flows and the internal operational control plane across booking lifecycle, fleet, finance/accounting, access boundaries, organization, and production readiness.
 
 ### Yaveli
 
@@ -40,17 +46,7 @@ Customer booking flows and the internal operational control plane across booking
   </a>
 </p>
 
-Template discovery, live editing, publish flow, and guest/RSVP foundations from the running private-alpha build.
-
-### KANSSA
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/kanssa-showcase.jpg">
-    <img src="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/kanssa-showcase.jpg" alt="KANSSA Turtle Rescue verified runtime showcase" width="100%" />
-  </a>
-</p>
-
-A child learning loop built around a character that needs help, child action, immediate reaction, environmental learning, and resolution.
+Template discovery, live invitation editing, persistent drafts, preview, publish-flow foundations, and guest-facing foundations from the running private-alpha build.
 
 ### 1NFST Core
 
@@ -60,47 +56,24 @@ A child learning loop built around a character that needs help, child action, im
   </a>
 </p>
 
-Local runtime, local model state, private-by-default workspace, and active technical conversation in the current interface.
+Local runtime, model state, private-by-default workspace, tool/task foundations, and verification-oriented AI-system development.
 
-Latest verified engineering gate: **2,503 Pytest tests passed in 15.32s** with **full Python compile clean**, verified at commit `7e1ac770...`.
-
-### 1NFST World
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/1nfst-world-showcase.jpg">
-    <img src="https://raw.githubusercontent.com/Ivanoza96/Ivanoza96/main/assets/showcase/1nfst-world-showcase.jpg" alt="1NFST World running concept showcase" width="100%" />
-  </a>
-</p>
-
-World 001: Lombok — spatial entry, geographic discovery, commerce-property hierarchy, and a conventional discovery fallback.
-
-## Arkanara SystemOS
-
-This is currently my deepest business-system build. The platform connects a public travel experience with an internal control plane instead of treating the customer website and back office as unrelated applications.
-
-Current verified areas include booking intake and lifecycle, customer/trip workflows, fleet operations, partner/product foundations, finance/accounting, internal access and organization, operational portal identities, notifications, and production-readiness checks.
-
-The public case study uses sanitized data and does not expose private source code, credentials, customer records, or internal commercial rules.
-
-**[View Arkanara SystemOS case study →](./PORTFOLIO.md#arkanara-systemos)**
+> Test counts and milestone evidence are tracked in the relevant project repositories/case studies so the public profile does not present stale branch-specific numbers as a single global metric.
 
 ## Engineering approach
 
-I prefer small, reviewable changes over opaque rewrites. For important work I use isolated verification where practical, regression checks, explicit release criteria, and rollback-aware delivery.
-
 `Understand → Scope → Implement → Test → Review → Verify → Ship`
 
-My strongest current implementation stack is Laravel/PHP for business systems, with active product work in Flutter/Dart, Python AI systems, TypeScript/React, relational databases, and automated testing.
+I prefer small, reviewable changes over opaque rewrites. For important work I use isolated verification where practical, explicit acceptance criteria, regression checks, and rollback-aware delivery.
 
-## Open to
+My strongest current implementation stack is **Laravel/PHP** for business systems, with active product work in **Flutter/Dart**, **Python AI systems**, **TypeScript/React**, relational databases, and automated testing.
 
-I'm interested in conversations with early users/testers, founders and operators with real workflow problems, developers/designers who want to exchange product feedback or collaborate, selected Laravel/business-system work, and people working on local-first AI or privacy-preserving software.
+AI is part of my research and implementation workflow, but generated output is not treated as automatically correct. Important changes are tested, reviewed, and verified before I consider them done.
 
-I'm building in public gradually while the commercial repositories remain private. If something here is relevant to what you are building, **open a GitHub conversation/issue or connect through my GitHub profile** and tell me what caught your attention.
+## Commercial repository policy
 
-## Other long-term work
+Most product repositories remain private while they are evolving. Public portfolio material uses verified runtime captures and sanitized case studies rather than exposing source code, credentials, customer records, or proprietary business rules.
 
-**UTUH** — digital trust infrastructure research around identity, consent, authority, verification, credentials, auditability, and human-controlled AI delegation.  
-**1NFST Studio** — longer-term design/engineering platform direction for architecture, mechanical, furniture, and fashion workflows.
+For implementation work, I can work from a clearly defined feature, bug, workflow, or module and deliver the change with verification evidence.
 
-> Public evidence on this profile is intentionally conservative: implemented capability is separated from roadmap, concept work is labeled as concept work, and private customer/business data is not published.
+**Interested in working together? [See the work-with-me page →](./WORK_WITH_ME.md)**
