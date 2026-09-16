@@ -2,7 +2,7 @@
 
 These are **sanitized, non-confidential summaries** of private products. Source code, credentials, real customer records, sensitive operational data, and internal commercial rules are intentionally excluded.
 
-## Arkanara SystemOS / Barujari × Q Tours
+## Arkanara SystemOS
 
 **Role:** Founder / Product Builder  
 **Primary stack:** Laravel, PHP, Blade, SQLite, relational data modeling, PHPUnit, Git/GitHub  
@@ -10,12 +10,12 @@ These are **sanitized, non-confidential summaries** of private products. Source 
 
 ### Product model
 
-This project is intentionally two-sided:
+Arkanara SystemOS combines two connected surfaces inside one business system:
 
-- **Barujari × Q Tours** is the traveler-facing product for discovery, journey building, transfers, booking continuation, and trip experience.
-- **Arkanara SystemOS** is the internal operating system for staff, operational state, finance, organization, access, and production controls.
+- a customer-facing travel experience for discovery, journey building, transfers, booking continuation, and trip experience;
+- an internal operating system for staff, operational state, finance, organization, access, and production controls.
 
-The two products share business truth, but they are not visual clones and do not expose the same complexity to the same users.
+Both surfaces share business truth while exposing different levels of complexity to different users.
 
 ### Operational scope demonstrated
 
@@ -36,7 +36,7 @@ The value is not a collection of CRUD screens. It is the attempt to keep **custo
 
 Changes are developed with regression awareness, isolated verification where practical, explicit test gates, and attention to rollback/data safety.
 
-**[See verified runtime evidence →](./SHOWCASE.md#arkanara-systemos--barujari--q-tours)**
+**[See verified runtime evidence →](./SHOWCASE.md#arkanara-systemos)**
 
 ---
 
